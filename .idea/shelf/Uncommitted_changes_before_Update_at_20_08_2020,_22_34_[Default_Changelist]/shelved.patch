@@ -1,0 +1,138 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"61694b4c-cec7-4e77-aad9-51b3e17bf08f\" name=\"Default Changelist\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/src/com/techproed/Day04_FindElements.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/techproed/Day04_GoogleTest.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/techproed/Day04_LocatorLinkText.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/techproed/Day04_LocatorsGiris.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/techproed/Day04_LocatorsTagName.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/out/production/SeleniumIlkProje/com/techproed/Day03_LocatorsGiris.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/SeleniumIlkProje/com/techproed/Day03_LocatorsGiris.class\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FavoritesManager\">\n    <favorites_list name=\"SeleniumIlkProje\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1g3XsBO48CfyFJdWrbl2aHrd6A6\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showExcludedFiles\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"last_opened_file_path\" value=\"$USER_HOME$/selenium dependencies/drivers/client-combined-3.141.59.jar!/\" />\n    <property name=\"project.structure.last.edited\" value=\"Modules\" />\n    <property name=\"project.structure.proportion\" value=\"0.15\" />\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"reference.settingsdialog.IDE.editor.colors.Console Font\" />\n  </component>\n  <component name=\"RunManager\" selected=\"Application.Day04_GoogleTest\">\n    <configuration name=\"Day04_FindElements\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.techproed.Day04_FindElements\" />\n      <module name=\"SeleniumIlkProje\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.techproed.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Day04_GoogleTest\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.techproed.Day04_GoogleTest\" />\n      <module name=\"SeleniumIlkProje\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.techproed.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Day04_LocatorLinkText\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.techproed.Day04_LocatorLinkText\" />\n      <module name=\"SeleniumIlkProje\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.techproed.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Day04_LocatorsGiris\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.techproed.Day04_LocatorsGiris\" />\n      <module name=\"SeleniumIlkProje\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.techproed.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Day04_LocatorsTagName\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.techproed.Day04_LocatorsTagName\" />\n      <module name=\"SeleniumIlkProje\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.techproed.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.Day04_GoogleTest\" />\n        <item itemvalue=\"Application.Day04_FindElements\" />\n        <item itemvalue=\"Application.Day04_LocatorsTagName\" />\n        <item itemvalue=\"Application.Day04_LocatorLinkText\" />\n        <item itemvalue=\"Application.Day04_LocatorsGiris\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SvnConfiguration\">\n    <configuration />\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"61694b4c-cec7-4e77-aad9-51b3e17bf08f\" name=\"Default Changelist\" comment=\"\" />\n      <created>1597344453402</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1597344453402</updated>\n    </task>\n    <servers />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"779\" y=\"110\" key=\"FileChooserDialogImpl\" timestamp=\"1597347303632\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state x=\"779\" y=\"110\" key=\"FileChooserDialogImpl/0.0.1366.728/1366.0.1366.768@0.0.1366.728\" timestamp=\"1597347303632\" />\n    <state width=\"1322\" height=\"217\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1597954945608\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state width=\"1322\" height=\"217\" key=\"GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.768@0.0.1366.728\" timestamp=\"1597954945608\" />\n    <state width=\"1322\" height=\"217\" key=\"GridCell.Tab.0.center\" timestamp=\"1597954945608\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state width=\"1322\" height=\"217\" key=\"GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.768@0.0.1366.728\" timestamp=\"1597954945608\" />\n    <state width=\"1322\" height=\"217\" key=\"GridCell.Tab.0.left\" timestamp=\"1597954945608\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state width=\"1322\" height=\"217\" key=\"GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.768@0.0.1366.728\" timestamp=\"1597954945608\" />\n    <state width=\"1322\" height=\"217\" key=\"GridCell.Tab.0.right\" timestamp=\"1597954945608\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state width=\"1322\" height=\"217\" key=\"GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.768@0.0.1366.728\" timestamp=\"1597954945608\" />\n    <state width=\"1322\" height=\"217\" key=\"GridCell.Tab.1.bottom\" timestamp=\"1597954945609\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state width=\"1322\" height=\"217\" key=\"GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1366.768@0.0.1366.728\" timestamp=\"1597954945609\" />\n    <state width=\"1322\" height=\"217\" key=\"GridCell.Tab.1.center\" timestamp=\"1597954945609\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state width=\"1322\" height=\"217\" key=\"GridCell.Tab.1.center/0.0.1366.728/1366.0.1366.768@0.0.1366.728\" timestamp=\"1597954945609\" />\n    <state width=\"1322\" height=\"217\" key=\"GridCell.Tab.1.left\" timestamp=\"1597954945609\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state width=\"1322\" height=\"217\" key=\"GridCell.Tab.1.left/0.0.1366.728/1366.0.1366.768@0.0.1366.728\" timestamp=\"1597954945609\" />\n    <state width=\"1322\" height=\"217\" key=\"GridCell.Tab.1.right\" timestamp=\"1597954945609\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state width=\"1322\" height=\"217\" key=\"GridCell.Tab.1.right/0.0.1366.728/1366.0.1366.768@0.0.1366.728\" timestamp=\"1597954945609\" />\n    <state x=\"163\" y=\"0\" key=\"SettingsEditor\" timestamp=\"1597349503191\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state x=\"163\" y=\"0\" key=\"SettingsEditor/0.0.1366.728/1366.0.1366.768@0.0.1366.728\" timestamp=\"1597349503191\" />\n    <state x=\"390\" y=\"190\" key=\"com.intellij.ide.util.TipDialog\" timestamp=\"1597944539468\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state x=\"390\" y=\"190\" key=\"com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.768@0.0.1366.728\" timestamp=\"1597944539468\" />\n    <state x=\"390\" y=\"190\" key=\"com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728\" timestamp=\"1597445252406\" />\n    <state x=\"65\" y=\"0\" key=\"new project wizard\" timestamp=\"1597944854542\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state x=\"65\" y=\"0\" key=\"new project wizard/0.0.1366.728/1366.0.1366.768@0.0.1366.728\" timestamp=\"1597944854542\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision d1eecddab5486c1ace1623b36cf9aef521147e83)
++++ .idea/workspace.xml	(date 1597955590909)
+@@ -2,21 +2,13 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="61694b4c-cec7-4e77-aad9-51b3e17bf08f" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/src/com/techproed/Day04_FindElements.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/techproed/Day04_GoogleTest.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/techproed/Day04_LocatorLinkText.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/techproed/Day04_LocatorsGiris.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/techproed/Day04_LocatorsTagName.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/SeleniumIlkProje/com/techproed/Day03_LocatorsGiris.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumIlkProje/com/techproed/Day03_LocatorsGiris.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/SeleniumIlkProje.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumIlkProje.iml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="FavoritesManager">
+-    <favorites_list name="SeleniumIlkProje" />
+   </component>
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+@@ -32,10 +24,10 @@
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showExcludedFiles" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+   <component name="PropertiesComponent">
++    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="last_opened_file_path" value="$USER_HOME$/selenium dependencies/drivers/client-combined-3.141.59.jar!/" />
+     <property name="project.structure.last.edited" value="Modules" />
+@@ -119,6 +111,7 @@
+       </list>
+     </recent_temporary>
+   </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="SvnConfiguration">
+     <configuration />
+   </component>
+@@ -169,10 +162,11 @@
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+     <state width="1322" height="217" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597954945609" />
+-    <state x="163" y="0" key="SettingsEditor" timestamp="1597349503191">
+-      <screen x="0" y="0" width="1366" height="728" />
++    <state x="172" y="23" key="SettingsEditor" timestamp="1597955573871">
++      <screen x="0" y="23" width="1440" height="877" />
+     </state>
+     <state x="163" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597349503191" />
++    <state x="172" y="23" key="SettingsEditor/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1597955573871" />
+     <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1597944539468">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+Index: SeleniumIlkProje.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<module type=\"JAVA_MODULE\" version=\"4\">\n  <component name=\"NewModuleRootManager\" inherit-compiler-output=\"true\">\n    <exclude-output />\n    <content url=\"file://$MODULE_DIR$\">\n      <sourceFolder url=\"file://$MODULE_DIR$/src\" isTestSource=\"false\" />\n    </content>\n    <orderEntry type=\"inheritedJdk\" />\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\n    <orderEntry type=\"module-library\">\n      <library>\n        <CLASSES>\n          <root url=\"jar://$USER_HOME$/selenium dependencies/drivers/libs/byte-buddy-1.8.15.jar!/\" />\n        </CLASSES>\n        <JAVADOC />\n        <SOURCES />\n      </library>\n    </orderEntry>\n    <orderEntry type=\"module-library\">\n      <library>\n        <CLASSES>\n          <root url=\"jar://$USER_HOME$/selenium dependencies/drivers/libs/commons-exec-1.3.jar!/\" />\n        </CLASSES>\n        <JAVADOC />\n        <SOURCES />\n      </library>\n    </orderEntry>\n    <orderEntry type=\"module-library\">\n      <library>\n        <CLASSES>\n          <root url=\"jar://$USER_HOME$/selenium dependencies/drivers/libs/guava-25.0-jre.jar!/\" />\n        </CLASSES>\n        <JAVADOC />\n        <SOURCES />\n      </library>\n    </orderEntry>\n    <orderEntry type=\"module-library\">\n      <library>\n        <CLASSES>\n          <root url=\"jar://$USER_HOME$/selenium dependencies/drivers/libs/okhttp-3.11.0.jar!/\" />\n        </CLASSES>\n        <JAVADOC />\n        <SOURCES />\n      </library>\n    </orderEntry>\n    <orderEntry type=\"module-library\">\n      <library>\n        <CLASSES>\n          <root url=\"jar://$USER_HOME$/selenium dependencies/drivers/libs/okio-1.14.0.jar!/\" />\n        </CLASSES>\n        <JAVADOC />\n        <SOURCES />\n      </library>\n    </orderEntry>\n    <orderEntry type=\"module-library\">\n      <library>\n        <CLASSES />\n        <JAVADOC />\n        <SOURCES>\n          <root url=\"jar://$USER_HOME$/selenium dependencies/drivers/client-combined-3.141.59-sources.jar!/\" />\n        </SOURCES>\n      </library>\n    </orderEntry>\n    <orderEntry type=\"module-library\">\n      <library>\n        <CLASSES>\n          <root url=\"jar://$USER_HOME$/selenium dependencies/drivers/client-combined-3.141.59.jar!/\" />\n        </CLASSES>\n        <JAVADOC />\n        <SOURCES />\n      </library>\n    </orderEntry>\n  </component>\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- SeleniumIlkProje.iml	(revision d1eecddab5486c1ace1623b36cf9aef521147e83)
++++ SeleniumIlkProje.iml	(date 1597955574636)
+@@ -7,7 +7,7 @@
+     </content>
+     <orderEntry type="inheritedJdk" />
+     <orderEntry type="sourceFolder" forTests="false" />
+-    <orderEntry type="module-library">
++    <orderEntry type="module-library" exported="">
+       <library>
+         <CLASSES>
+           <root url="jar://$USER_HOME$/selenium dependencies/drivers/libs/byte-buddy-1.8.15.jar!/" />
+@@ -16,7 +16,7 @@
+         <SOURCES />
+       </library>
+     </orderEntry>
+-    <orderEntry type="module-library">
++    <orderEntry type="module-library" exported="">
+       <library>
+         <CLASSES>
+           <root url="jar://$USER_HOME$/selenium dependencies/drivers/libs/commons-exec-1.3.jar!/" />
+@@ -25,7 +25,7 @@
+         <SOURCES />
+       </library>
+     </orderEntry>
+-    <orderEntry type="module-library">
++    <orderEntry type="module-library" exported="">
+       <library>
+         <CLASSES>
+           <root url="jar://$USER_HOME$/selenium dependencies/drivers/libs/guava-25.0-jre.jar!/" />
+@@ -34,7 +34,7 @@
+         <SOURCES />
+       </library>
+     </orderEntry>
+-    <orderEntry type="module-library">
++    <orderEntry type="module-library" exported="">
+       <library>
+         <CLASSES>
+           <root url="jar://$USER_HOME$/selenium dependencies/drivers/libs/okhttp-3.11.0.jar!/" />
+@@ -43,7 +43,7 @@
+         <SOURCES />
+       </library>
+     </orderEntry>
+-    <orderEntry type="module-library">
++    <orderEntry type="module-library" exported="">
+       <library>
+         <CLASSES>
+           <root url="jar://$USER_HOME$/selenium dependencies/drivers/libs/okio-1.14.0.jar!/" />
+@@ -52,7 +52,7 @@
+         <SOURCES />
+       </library>
+     </orderEntry>
+-    <orderEntry type="module-library">
++    <orderEntry type="module-library" exported="">
+       <library>
+         <CLASSES />
+         <JAVADOC />
+@@ -61,7 +61,7 @@
+         </SOURCES>
+       </library>
+     </orderEntry>
+-    <orderEntry type="module-library">
++    <orderEntry type="module-library" exported="">
+       <library>
+         <CLASSES>
+           <root url="jar://$USER_HOME$/selenium dependencies/drivers/client-combined-3.141.59.jar!/" />
