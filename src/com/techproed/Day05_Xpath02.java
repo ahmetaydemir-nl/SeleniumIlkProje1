@@ -9,14 +9,16 @@ import java.util.concurrent.TimeUnit;
 
 public class Day05_Xpath02 {
     public static void main(String[] args) {
-        System.setProperty("webdriver.chrome.driver","/Users/ahmetaydemir/Documents/selenium libraries/drivers/chromedriver");
-
+        System.setProperty("webdriver.chrome.driver" , "C:\\Users\\isimsiz\\selenium dependencies\\selenium\\drivers\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(10000, TimeUnit.MILLISECONDS);
         driver.manage().window().maximize();
-        driver.get("http://a.testaddressbook.com");
-
+        driver.get("http://a.testaddressbook.com/");
+        //WebElement welcomeYazisi = driver.findElement(By.tagName("h1"));
+        // xpath kullanımında, attribute kullanmaya gerek duymazsanız,
+        // sadece tagName yazılarakta webelement bulunabilir.
         WebElement welcomeYazisi = driver.findElement(By.xpath("//h1"));
         System.out.println(welcomeYazisi.getText());
+
     }
 }

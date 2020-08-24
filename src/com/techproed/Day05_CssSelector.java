@@ -15,7 +15,7 @@ public class Day05_CssSelector {
         WebDriver driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.manage().window().maximize();
-        driver.get("http://a.testaddressbook.com/sign_in")
+        driver.get("http://a.testaddressbook.com/sign_in");
 
 // cssSelector kullanırken, class value kullanıyorsak .value
 //                          id value kullanıyorsak    #value
